@@ -25,8 +25,8 @@ To Create a Python Program to  find the greatest of two numbers using lambda fun
 ### PROGRAM
 
 ```
-REG NO. 212222220032
-NAME:  Rahul B
+REG NO. 212222220025
+NAME:  Mohamed Munthasir Y
 
 
 Max = lambda a, b : a if(a > b) else b
