@@ -19,9 +19,9 @@ To write a program that prints all odd numbers from 1 to n in reverse order (fro
 6.End
 
 ### 🧾 Program
-#Reg.NO: 212222220032
+#Reg.NO: 212222220025
 
-#Name: Rahul B
+#Name: Mohamed Munthasir Y
 
 ```
 n=int(input())
