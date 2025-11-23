@@ -21,8 +21,8 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM:
 ```
-Developed by: Rahul B
-RegisterNumber: 212222220032
+Developed by: Mohamed Munthasir Y
+RegisterNumber: 212222220025
 
 ```
 ### Sourcecode.java:
